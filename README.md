@@ -32,6 +32,6 @@ This work is informed by 3+ years building agentic AI diagnostics at Meta-scale 
 
 ## Author
 
-**Vaishnavi Yeruva** — [vaish.ai](https://vaish.ai) · [Google Scholar](your-link) · [LinkedIn](your-link)
+**Vaishnavi Yeruva** — [vaish.ai](https://vaish.ai) · [Google Scholar](https://scholar.google.com/citations?user=fhe95D0AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/yaish/)
 
 MS in AI, Northwestern · Research at IISc · 5 published papers (INTERSPEECH, ICANN, Speaker Odyssey)
