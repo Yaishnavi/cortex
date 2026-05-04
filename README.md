@@ -35,9 +35,6 @@ See `main.py` for the loop scaffolding and prompt templates.
 v0 scaffolding. Loop logic and prompt templates in place.
 Production version under active development for the YC S26 batch.
 
-## Walkthrough
-
-90 second design walkthrough: [LOOM LINK]
 
 ## What's next
 
